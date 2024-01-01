@@ -1,2 +1,3 @@
 # Bankist_JS_app
-This is the simple Bank transaction application built using HTML, CSS, JavaScript for learning purpose.
+This static app is built using the DOM manipulation concept mainly
+This is a simple Bank transaction application built using HTML, CSS, and JavaScript for learning purposes.
